@@ -16,7 +16,7 @@ print(first_user)
 # 2. first name = Data
 # last % name = "random"
 first_name = "Data"
-last % name = "random"
+last_name = "random"
 
 # 4) რას გამოიტანს ეს კოდი?
 #  Num1 = 20
